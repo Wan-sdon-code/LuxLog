@@ -1,6 +1,8 @@
 # 📽️ Project: LuxLog (v1.7)
 
-> **The Logic:** To keep **Customer Service KPIs** high, we often do not charge for setup (**Waived Fees**). But every hour the gear is used, it wears out. This tool tracks that hidden cost.
+> **The Logic:** Life-cycle tracking for high-end AV gear. To keep **Customer Service KPIs** high, we often waive setup fees—but we can't waive the physical wear on the hardware or the staff.
+
+![LuxLog Dashboard](./ledwall.png)
 
 ---
 
@@ -18,34 +20,39 @@
 ---
 
 ## 📊 The 3 "Leak" Points
-*How happy customers can lead to hidden costs.*
 
-1.  **Maintenance (Hours):** Equipment has a limited life. Even if the fee is $0, every hour used is a "withdrawal" from the gear's life.
-2.  **Staff Time:** When expert workers spend 8 hours on an **Uncharged Setup**, the organization loses 8 hours of their valuable time.
-3.  **The Gap:** This is the "Price of Service." It is the total money lost to keep the **Customer Service KPI** high.
+1.  **Maintenance (Hours):** Even at a $0 fee, every hour is a "withdrawal" from the gear's total lifespan.
+2.  **Staff Time:** Expert labor spent on **Uncharged Setups** is Lost Opportunity Cost.
+3.  **The Gap:** The "Price of Service"—the total money lost to keep the **Customer Service KPI** high.
 
 ---
 
 ## 🛠️ System Output: The Recommendation
 
-* 🟢 **STABLE:** The gear is healthy and staff have enough energy.
-* 🔴 **CRITICAL:** Too much **Uncharged Time**. You must change the rules before the gear breaks.
+* 🟢 **STABLE:** Gear health is high; uncharged labor is within safe limits.
+* 🔴 **CRITICAL:** **Hidden Cost Spike.** High wear-and-tear with zero ROI. Change rules before hardware failure.
 
 ---
 
-## 📜 The Safety Rules
+## 📜 Safety Code
 
-* **Track the Hours:** Gear wears out slowly every hour. No data = No money to buy new gear later.
-* **Protect the Workers:** Too much heavy lifting leads to tired staff. Tired staff make mistakes that break expensive gear.
-* **Service vs. Cost:** You can have great service, but you must track the "Wear and Tear" so you aren't surprised by a big repair bill.
+* **Track Every Hour:** No data = No budget for replacement gear.
+* **Protect the Workers:** Heavy lifting + uncharged overtime = Mistakes that break gear.
+* **Service vs. Cost:** High KPIs are great, but don't let a "Free Setup" turn into a "Broken Asset."
 
 ---
 
 ## ⚖️ Legal Disclaimer
-**PROPRIETARY DATA NOTICE:** This project does not contain, reference, or use any real data, financial records, or private info from any specific company. All logic, costs, and labor rates are **Synthetic Estimates** based on general industry standards. This is a conceptual tool built for **Educational and Portfolio purposes only**.
+**PROPRIETARY DATA NOTICE:** This project does not use real company data. All costs and labor rates are **Synthetic Estimates** for educational and portfolio purposes only.
 
 ---
 
 ### ✍️ Credits
 * **Research & Strategy:** Wan Saidon
 * **Drafting:** Gemini AI
+
+---
+
+**[ SOURCE CODE ]** 🔗 [luxlog.py](./luxlog.py)
+
+**[ END SCRIPT ]**
