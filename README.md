@@ -42,6 +42,15 @@
 
 ---
 
+### 🐍 Python Version
+You can run this guide as a script in your terminal.
+
+**Raw Script Link:**
+[Download strongkids.py (Raw)](luxlog.py)
+
+---
+
+
 ## ⚖️ Legal Disclaimer
 **PROPRIETARY DATA NOTICE:** This project does not use real company data. All costs and labor rates are **Synthetic Estimates** for educational and portfolio purposes only.
 
