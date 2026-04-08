@@ -1,6 +1,6 @@
 # 📽️ Project: LuxLog (v1.7)
 
-> **The Logic:** Life-cycle tracking for high-end AV gear. To keep **Customer Service KPIs** high, we often waive setup fees—but we can't waive the physical wear on the hardware or the staff.
+> **The Simple Logic:** We often give "Free Setups" to keep guests happy (**KPIs**). But while the customer doesn't pay, the gear still gets old and the staff still gets tired. This system tracks those hidden costs.
 
 ![LuxLog Dashboard](./ledwall.png)
 
@@ -8,48 +8,47 @@
 
 ## 🕹️ The Simple Review
 
-| Step | Component | The Simple Logic |
+| Step | Component | The Simple Truth |
 | :--- | :--- | :--- |
-| **01** | **The Asset** | High-value gear like **LED Video Walls**. |
-| **02** | **The Goal** | **Customer Service KPIs** (keeping guests happy). |
-| **03** | **The Clock** | Tracking the **Total Hours** of work and showtime. |
-| **04** | **The Wear** | Every hour used makes the gear older and weaker. |
-| **05** | **The Staff** | Workers spending hours on **Uncharged Setups**. |
-| **06** | **The Math** | What we should charge vs. what we actually made. |
+| **01** | **The Gear** | Expensive stuff like LED Walls that eventually break. |
+| **02** | **The Favor** | Waiving fees to keep the customer happy. |
+| **03** | **The Wear** | Every hour the lights are on, the gear gets closer to dying. |
+| **04** | **The Labor** | Staff working for "free" is still time they can't get back. |
+| **05** | **The Risk** | If we do too many favors, we won't have money to buy new gear. |
+| **06** | **The Math** | What it actually cost us vs. the $0 we charged. |
 
 ---
 
 ## 📊 The 3 "Leak" Points
 
-1.  **Maintenance (Hours):** Even at a $0 fee, every hour is a "withdrawal" from the gear's total lifespan.
-2.  **Staff Time:** Expert labor spent on **Uncharged Setups** is Lost Opportunity Cost.
-3.  **The Gap:** The "Price of Service"—the total money lost to keep the **Customer Service KPI** high.
+1. **Gear Lifespan:** A "Free hour" for a client is still a 1-hour "withdrawal" from the gear's life.
+2. **Staff Burnout:** Expert labor spent on uncharged work is money lost.
+3. **The Hidden Price:** The total money sacrificed just to keep a "Customer Service" score high.
 
 ---
 
 ## 🛠️ System Output: The Recommendation
 
-* 🟢 **STABLE:** Gear health is high; uncharged labor is within safe limits.
-* 🔴 **CRITICAL:** **Hidden Cost Spike.** High wear-and-tear with zero ROI. Change rules before hardware failure.
+* 🟢 **STABLE:** The gear is healthy and staff aren't overworked. Keep going.
+* 🔴 **CRITICAL:** We are giving away too much. The gear is wearing out with zero profit. Stop before something breaks.
 
 ---
 
 ## 📜 Safety Code
 
-* **Track Every Hour:** No data = No budget for replacement gear.
-* **Protect the Workers:** Heavy lifting + uncharged overtime = Mistakes that break gear.
-* **Service vs. Cost:** High KPIs are great, but don't let a "Free Setup" turn into a "Broken Asset."
+* **Data is Life:** If you don't track the hours, you won't have a budget to replace broken gear.
+* **Respect the Hustle:** Tired workers make mistakes. Don't let "Free Setups" break your team.
+* **Service has Limits:** A high KPI is useless if your hardware is dead and your bank account is empty.
 
 ---
 
 ### 🐍 Python Version
-You can run this guide as a script in your terminal.
+You can run this logic as a script in your terminal.
 
 **Raw Script Link:**
 [Download luxlog.py (Raw)](luxlog.py)
 
 ---
-
 
 ## ⚖️ Legal Disclaimer
 **PROPRIETARY DATA NOTICE:** This project does not use real company data. All costs and labor rates are **Synthetic Estimates** for educational and portfolio purposes only.
@@ -57,9 +56,7 @@ You can run this guide as a script in your terminal.
 ---
 
 ### ✍️ Credits
-* **Research & Strategy:** Wan Saidon
+* **Research & Strategy:** wansaidon
 * **Drafting:** Gemini AI
 
 ---
-
-**[ END SCRIPT ]**
