@@ -46,7 +46,7 @@
 You can run this guide as a script in your terminal.
 
 **Raw Script Link:**
-[Download strongkids.py (Raw)](luxlog.py)
+[Download luxlog.py (Raw)](luxlog.py)
 
 ---
 
