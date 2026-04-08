@@ -62,6 +62,4 @@ You can run this guide as a script in your terminal.
 
 ---
 
-**[ SOURCE CODE ]** 🔗 [luxlog.py](./luxlog.py)
-
 **[ END SCRIPT ]**
